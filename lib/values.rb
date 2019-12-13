@@ -12,4 +12,4 @@ def get_the_values(groceries)
   groceries.values.flatten
 end
 
-get_the_values(groceries)
+# get_the_values(groceries)
